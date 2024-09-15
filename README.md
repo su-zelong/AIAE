@@ -6,7 +6,9 @@ The current is still an unstable version, up to this point the AIAE-model has be
 
 ## requirements
 torch=2.4.0+cuda118
+
 torch_geometric=2.5.3
+
 scikit-learn=1.5.1
 
 ## This reproduction is for learning purposes only.
